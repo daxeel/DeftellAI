@@ -9,7 +9,7 @@ A Voice based Artificial Intelligence System
 5. Love, Motivational Quotes 
 6. Weather Information
 
-# Advanced
+# Advanced Features
 1. Android phone call
 2. Search movie show timings
 3. Download Youtube Videos
