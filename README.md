@@ -1,4 +1,5 @@
 # DeftellAI
+<img src="http://deftellai.daxeelsoni.in/banner.jpg">
 A Voice based Artificial Intelligence System
 
 # Basic Features
