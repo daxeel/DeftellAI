@@ -1,6 +1,6 @@
 # DeftellAI
-<img src="http://deftellai.daxeelsoni.in/banner.jpg" height="300">
-A Voice based Artificial Intelligence System
+<img src="http://deftellai.daxeelsoni.in/banner.jpg" height="300"><br>
+DeftellAI is an speech recognition based artificial intelligence system. It takes and input from user in from of speech, converts it into text using Speech To Text(STT) technology, does natural language processing on that text and final performes specific task and then returns meaningfull output to user.
 
 # Basic Features
 1. Dictionary
