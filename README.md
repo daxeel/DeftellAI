@@ -10,8 +10,14 @@ A Voice based Artificial Intelligence System
 6. Weather Information
 
 # Advanced Features
-1. Android phone call
-2. Search movie show timings
-3. Download Youtube Videos
-4. Live cricket scores
-5. Celebrity Birthdays 
+1. Search movie show timings
+2. Download Youtube Videos
+3. Live cricket scores
+4. Celebrity Birthdays 
+
+# Android Features
+Control android phone by just speaking to your computer anywhere. There is no need to connect pc and mobile under same network.
+1. Make phone call
+2. Send sms
+3. Send whatsapp message
+4. Open apps
