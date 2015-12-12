@@ -16,7 +16,7 @@ A Voice based Artificial Intelligence System
 4. Celebrity Birthdays 
 
 # Android Features
-Control android phone by just speaking to your computer anywhere. There is no need to connect pc and mobile under same network.<br>
+<p>Control android phone by just speaking to your computer anywhere. There is no need to connect pc and mobile under same network.</p>
 1. Make phone call
 2. Send sms
 3. Send whatsapp message
