@@ -24,4 +24,4 @@ DeftellAI is an speech recognition based artificial intelligence system. It take
 4. Open apps
 
 #Website
-<a href="http://deftellai.daxeelsoni.in">Visit Now</a>
+<a href="http://deftellai.daxeelsoni.in" target="_blank">Visit Now</a>
